@@ -4,3 +4,6 @@
 [submodule "tartanhacks-25-team5-camera"]
 	path = tartanhacks-25-team5-camera
 	url = https://github.com/a-lohia/tartanhacks-25-team5-camera.git
+[submodule "tartanhacks-team5-compute"]
+	path = tartanhacks-team5-compute
+	url = https://github.com/a-lohia/tartanhacks-team5-compute.git
