@@ -2,7 +2,7 @@ This is the super-repo that contains both repos for team5 (RNDR) at TartanHacks 
 
 We are proud to present RNDR - A Content Platform for Preserving Objects - From Real-World to Interactable Digital Model
 
-Abhinav Akkiraju
-Arya Lohia
-Matthew Rao
-Paul Zhou
+- Abhinav Akkiraju
+- Arya Lohia
+- Matthew Rao
+- Paul Zhou
