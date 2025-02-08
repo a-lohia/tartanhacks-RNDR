@@ -1,0 +1,6 @@
+[submodule "tartanhacks-25-team5-firebase-flutter"]
+	path = tartanhacks-25-team5-firebase-flutter
+	url = https://github.com/a-lohia/tartanhacks-25-team5-firebase-flutter.git
+[submodule "tartanhacks-25-team5-camera"]
+	path = tartanhacks-25-team5-camera
+	url = https://github.com/a-lohia/tartanhacks-25-team5-camera.git
